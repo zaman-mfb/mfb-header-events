@@ -1,6 +1,6 @@
-window.events = [
+window.mfbEvents = [
   {
-    image: 'https://muslimfoodbank.com/wp-content/uploads/2025/06/Yellow-and-Purple-Modern-Digital-Marketing-Job-Vacancy-LinkedIn-Post-2.webp',
+    image: 'https://muslimfoodbank.com/wp-content/uploads/2025/08/Yellow-and-Purple-Modern-Digital-Marketing-Job-Vacancy-LinkedIn-Post-2.png',
     title: 'Virtual Workshops 2026',
     link: 'https://muslimfoodbank.com/virtual-workshops/'
   },
