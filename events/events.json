@@ -12,9 +12,15 @@
   },
 
   {
-    "image": "https://raw.githubusercontent.com/zaman-mfb/mfb-header-events/main/events/images/aspire counselling2.webp",
+    "image": "https://raw.githubusercontent.com/zaman-mfb/mfb-header-events/main/events/images/mental health awareness.png",
     "title": "Start ASPIRE Counselling and Get Support",
     "link": "https://muslimfoodbank.com/aspirecounselling/"
+  },
+
+    {
+    "image": "https://raw.githubusercontent.com/zaman-mfb/mfb-header-events/main/events/images/free-english-class.webp",
+    "title": "Join Our Free English Conversation Class",
+    "link": "https://form.jotform.com/261396738653470"
   }
 
 ]
